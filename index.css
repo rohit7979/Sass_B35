@@ -1,3 +1,18 @@
-
+.container .square {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: #336699;
+}
+.container .circle {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #336699;
+}
+.container .heading {
+  color: #336699;
+}
 
 /*# sourceMappingURL=index.css.map */
